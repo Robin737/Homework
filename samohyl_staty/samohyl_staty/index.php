@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CSV File to HTML Table Using AJAX jQuery</title>
+    <title>Státy 4IT Samohýl</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.1/d3.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
