@@ -1,0 +1,23 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+}
+#cesko,
+#rusko,
+#usa,
+#australie,
+#belorusko,
+#brazilie,
+#cina,
+#dansko,
+#egypt,
+#francie {
+    display: none;
+}
+.ukaz_stat {
+    display: block!important;
+}
+.ukaz_barvu {
+    background-color: green!important;
+}
